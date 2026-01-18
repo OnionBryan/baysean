@@ -1,0 +1,6 @@
+"Package","Purpose","Citation"
+"brms","Bayesian regression modeling","Bürkner (2017)"
+"tidyverse","Data manipulation and visualization","Wickham et al. (2019)"
+"posterior","Posterior analysis utilities","Bürkner et al. (2023)"
+"bayesplot","MCMC diagnostics visualization","Gabry et al. (2019)"
+"lavaan","Frequentist comparison (optional)","Rosseel (2012)"

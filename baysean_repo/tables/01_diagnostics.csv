@@ -1,0 +1,5 @@
+"Metric","Value","Threshold","Status"
+"Max Rhat",1.0024,"< 1.01","PASS"
+"Min ESS",1196,"> 400","PASS"
+"Min ESS Ratio",0.1495,"> 0.1","PASS"
+"Divergent Transitions",16,"= 0","WARNING"
