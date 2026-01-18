@@ -4,7 +4,7 @@
 
 Companion code repository for:
 
-**Gibson, B. (2025). Bayesian Moderated Mediation Analysis: A Step-by-Step Guide. *Psychological Methods*.**
+ Bayesian Moderated Mediation Analysis: A Step-by-Step Guide 
 
 ## Overview
 
