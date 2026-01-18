@@ -257,7 +257,7 @@ cat("Effect of BNR on TTM at different levels of FP:\n\n")
 print(as.data.frame(simple_slopes), row.names = FALSE)
 
 # ================================================================
-# PUBLICATION-READY RESULTS TABLE
+# RESULTS TABLE
 # ================================================================
 results_table <- tibble(
   Path = c("BNR → TTM (a₁)",
