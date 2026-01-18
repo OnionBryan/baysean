@@ -134,10 +134,7 @@ See [REFERENCES.md](REFERENCES.md) for the complete bibliography with DOI links 
 ```bibtex
 @article{gibson2025bayesian,
   title={Bayesian Moderated Mediation Analysis: A Step-by-Step Guide},
-  author={Gibson, Bryan},
-  journal={Psychological Methods},
-  year={2025},
-  publisher={American Psychological Association}
+  author={Gibson, Bryan}
 }
 ```
 
