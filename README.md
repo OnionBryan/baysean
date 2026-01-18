@@ -144,7 +144,8 @@ See [REFERENCES.md](REFERENCES.md) for the complete bibliography with DOI links 
 ## Contact
 
 Bryan Gibson
-University of Southern Indiana
+Georgia State University
+bgibson@student.gsu.edu
 GitHub: [@onionbryan](https://github.com/onionbryan)
 
 ## License
